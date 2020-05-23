@@ -6,7 +6,7 @@ class Hotels:
         self.llista_hotels = llistahotels
         pass
 
-    def get_llista_vols(self):
+    def get_llista_hotels(self):
         return self.llista_hotels
         pass
 
