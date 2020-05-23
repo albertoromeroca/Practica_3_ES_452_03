@@ -36,6 +36,3 @@ class Flights:
     def get_llista_vols(self):
         return self.llista_vols
 
-    def get_llista_hotels(self):
-        return self.llista_hotels
-
